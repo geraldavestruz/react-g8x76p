@@ -1,14 +1,19 @@
 import React from 'react';
-import './style.css';
+
 import Card from './Card';
+import Navbar from './Navbar';
+
 
 export default function App() {
   return (
-    <div class="container">
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+    <div className="">
 
-      <Card />
+      <Navbar />
+
+      {/* <Card /> */}
+
+
+
     </div>
   );
 }

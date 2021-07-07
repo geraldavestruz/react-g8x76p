@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+body{
+  font-family: 'Roboto' , sans-serif;
+}
+
+.navbar{
+  background-color: #7952b3;
+  padding: 8px 8px;
+}
+
+.navbar-brand{
+  color: #ffffff;
+}
+
+.navb{
+  padding: 2px 8px;
+}
+
+.nav-link{
+  color: #ffffff !important;
+}
+
+.navb li{
+  color: #ffffff !important;
+}
+
+.navb li a{
+  color: #ffffff;
+}
+
+.navb li a:hover{
+  color: #ffffff;
+}
+
+.navb li a:focus{
+  color: #ffffff;
+}
